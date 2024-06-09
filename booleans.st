@@ -1,6 +1,9 @@
+ "Boolean is a type of object that represents one of two values: true or false. Booleans are used in conditional expressions to determine the flow of control in a program. The two boolean values are instances of the classes True and False, which are subclasses of the Boolean class."
+
+"Example metaphor"
 "Imagine you have two toy blocks, one marked with the letter A and another with the letter B. You want to compare these blocks in different ways to see if they're equal, different, bigger, smaller, and so on. We'll store the results of these comparisons in a box called result."
 
-Examples
+"Examples"
 | result BlockA BlockB |
 
 BlockA := 1.  "The A block is marked with the number 1"
